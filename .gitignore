@@ -29,3 +29,7 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+# Local-only project notes and agent documentation
+/docs/
+/history.md
